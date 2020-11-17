@@ -10,7 +10,7 @@ public class Task6 {
 		System.out.println("1～4の数字を入力してください");
 		int a = sc.nextInt();
 		String b;
-		
+		sc.close();
  
         switch (a) {
             case 1:
